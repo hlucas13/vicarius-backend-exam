@@ -67,7 +67,8 @@ You can test the API endpoints using tools like Postman, CURL, or any similar HT
 ## Video Demonstration
 
 A video demonstrating the code running on a local machine is
-available [here](https://github.com/hlucas13/vicarius-backend-exam/blob/main/video/demo.mov).
+available [here](https://github.com/hlucas13/vicarius-backend-exam/blob/main/video/demo.mov)
+or [here](https://vimeo.com/user208459221).
 
 ## Notes
 
